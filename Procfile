@@ -1,2 +1,1 @@
-web: Dockerfile
-web: bash start.sh
+worker: python3 -m bot
